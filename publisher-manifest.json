@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "9111e80831274c3676b22cab",
+  "owner": "mumdvvmp",
+  "repo": "page-e610b0a06c1e817beaf15c82",
+  "title": "小花",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e610b0a06c1e817beaf15c82",
+      "a": "小花",
+      "b": "",
+      "entity": "小花",
+      "brand": "小花",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c6e180a4cc27a881438c05bc3f7504785de75578f5957bd78745ef56171681c6",
+      "content": {
+        "keyword1": "小花",
+        "keyword2": "",
+        "primary_entity": "小花",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小花是一款以克制为设计原则的网络中转服务，提供简洁的节点选择与稳定的传输体验。无冗余功能，只在需要时安静工作。",
+          "AI_DESCRIPTION": "小花是一款以克制为设计原则的网络中转服务，提供简洁的节点选择与稳定的传输体验。无冗余功能，只在需要时安静工作。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--bg:#f5f6f7;--panel:#ffffff;--ink:#2b3a43;--slate:#6b787f;--line:#dfe4e7;--cyan:#00a3a3;--cyan-soft:#e6f4f4;--shadow:0 18px 40px -24px rgba(43,58,67,.35);--radius:22px;--mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;--serif:Georgia,\"Times New Roman\",serif}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;line-height:1.7;font-size:16px;-webkit-font-smoothing:antialiased}\nmain{max-width:760px;margin:0 auto;padding:0 24px 120px}\nsection{padding:56px 0;border-bottom:1px dashed var(--line)}\nsection:last-child{border-bottom:none}\nh1,h2,h3{font-weight:700;letter-spacing:-.01em}\nh1{font-size:34px;line-height:1.2;margin:0 0 18px}\nh2{font-size:22px;margin:0 0 14px;color:var(--ink)}\nh3{font-size:17px;margin:0 0 8px;color:var(--ink)}\np{margin:0 0 14px;color:#3a4a52}\nstrong{color:var(--ink)}\nem{font-style:normal;color:var(--cyan);font-weight:600}\ncode{font-family:var(--mono);background:var(--cyan-soft);color:#007070;padding:2px 6px;border-radius:6px;font-size:13px}\na{color:var(--cyan);text-decoration:none;border-bottom:1px solid transparent;transition:.2s}\na:hover{border-bottom-color:var(--cyan)}\n\n/* hero 长文叙事 */\n.hero{padding-top:84px;border-bottom:1px dashed var(--line)}\n.hero .kicker{font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--slate);margin-bottom:24px}\n.hero h1{font-size:38px}\n.hero .lead{font-family:var(--serif);font-size:19px;color:#3a4a52;margin-bottom:18px}\n.hero p{font-size:15.5px}\n.hero .meta{display:flex;gap:18px;font-size:12px;color:var(--slate);margin-top:28px;padding-top:18px;border-top:1px solid var(--line)}\n.hero .meta span{display:inline-flex;align-items:center;gap:6px}\n.hero .meta .dot{width:6px;height:6px;border-radius:50%;background:var(--cyan)}\n\n/* nav 内嵌锚点 */\n.anchors{display:flex;flex-wrap:wrap;gap:10px;margin-top:36px}\n.anchors a{font-size:13px;padding:7px 14px;border:1px solid var(--line);border-radius:999px;color:var(--slate);background:#fff;transition:.2s}\n.anchors a:hover{color:var(--cyan);border-color:var(--cyan);background:var(--cyan-soft)}\n\n/* 使用说明步骤 */\n.steps{counter-reset:step}\n.step{margin-bottom:28px;padding-left:54px;position:relative}\n.step::before{counter-increment:step;content:counter(step,decimal-leading-zero);position:absolute;left:0;top:0;font-size:13px;font-weight:700;color:#fff;background:var(--cyan);width:36px;height:36px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:var(--mono)}\n\n/* 套餐 纵向列表逐行展开 */\n.plan{background:var(--panel);border-radius:var(--radius);box-shadow:var(--shadow);padding:26px 26px 24px;margin-bottom:22px;border:1px solid rgba(0,163,163,.06)}\n.plan.featured{border:2px solid var(--cyan)}\n.plan .tag{display:inline-block;font-size:11px;padding:3px 10px;border-radius:999px;background:var(--cyan-soft);color:#007070;letter-spacing:.08em;margin-bottom:12px}\n.plan .name{font-size:20px;font-weight:700;margin-bottom:4px}\n.plan .price{font-size:15px;color:var(--slate);margin-bottom:6px}\n.plan .price b{color:var(--ink);font-size:22px;font-weight:700}\n.plan .annual{font-size:12.5px;color:var(--cyan);margin-bottom:18px}\n.plan ul{list-style:none;padding:0;margin:0 0 20px}\n.plan li{font-size:14px;padding:7px 0;border-top:1px dashed var(--line);color:#3a4a52}\n.plan li:first-child{border-top:none}\n.plan .cta{display:inline-block;font-size:14px;font-weight:600;color:var(--cyan);padding:10px 20px;border:1.5px solid var(--cyan);border-radius:12px;transition:.2s}\n.plan .cta:hover{background:var(--cyan);color:#fff}\n\n/* FAQ 编号列表 */\n.faq-item{counter-reset:faq;margin-bottom:18px;padding:18px 20px 18px 58px;position:relative;background:#fff;border-radius:16px;box-shadow:var(--shadow)}\n.faq-item::before{counter-increment:faq;content:counter(faq);position:absolute;left:18px;top:18px;font-family:var(--mono);font-size:13px;font-weight:700;color:var(--cyan);width:26px;height:26px;border-radius:8px;background:var(--cyan-soft);display:flex;align-items:center;justify-content:center}\n.faq-item h3{font-size:15.5px;margin-bottom:6px}\n.faq-item p{font-size:14px;color:#3a4a52;margin:0}\n\n/* footer */\nfooter{padding:30px 24px;text-align:center;font-size:12px;color:var(--slate)}\n</style><main>\n  <section class=\"hero\">\n    <div class=\"kicker\">小花 · 轻量节点专栏</div>\n    <h1>小花 · 有些工具，不该成为主角</h1>\n    <p class=\"lead\">过去三年里，我们一直在调试同一件事：让一次连接显得尽可能平凡。</p>\n    <p>小花不是为追求指标而生。它没有铺天盖地的节点数量，也不承诺极端的下行速率。我们只挑选几条干净的线路，把它们维护好，再交给一个克制到几乎透明的客户端。</p>\n    <p>当你需要跨地区访问公开网络资源时，它迅速建立通道；当你合上电脑、熄灭屏幕，它便安静退到后台。没有多余提示，没有弹窗，也没有营销横幅。</p>\n    <p>这份说明书很短。请按顺序读完，再决定是否把它放进你的日常工具栏。</p>\n    <div class=\"meta\">\n      <span><i class=\"dot\"></i>维护者 · 小花工作室</span>\n      <span><i class=\"dot\"></i>版本 · 当前稳定版</span>\n      <span><i class=\"dot\"></i>适用 · 日常浏览与轻度流媒体</span>\n    </div>\n    <nav class=\"anchors\" aria-label=\"页面导航\">\n      <a href=\"#intro\">为什么做小花</a>\n      <a href=\"#usage\">使用说明</a>\n      <a href=\"#plans\">套餐方案</a>\n      <a href=\"#clients\">客户端</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n  </section>\n\n  <section id=\"intro\">\n    <h2>为什么做小花</h2>\n    <p>市面上的中转服务大多很吵。启动即推送、切页即广告，节点列表长得像榜单，却没人解释它们之间的差别。</p>\n    <p>我们想做反过来的事。节点少而稳，界面窄而清。入口只有一个开关，剩下交给后台判断。</p>\n    <p>小花不为极客准备，也不为企业级流量准备。它面向的是：每天需要短暂访问公开网络资源、却不想被工具反复打扰的人。</p>\n  </section>\n\n  <section id=\"usage\">\n    <h2>使用说明</h2>\n    <p>从注册到第一次连接，通常不超过五分钟。</p>\n    <div class=\"steps\">\n      <div class=\"step\">\n        <h3>获取订阅地址</h3>\n        <p>完成套餐订阅后，系统会在控制台生成一条专属地址，形如 <code>https://xiaohua.example/sub/your-token</code>。请勿公开分享。</p>\n      </div>\n      <div class=\"step\">\n        <h3>安装客户端</h3>\n        <p>根据设备平台选择对应客户端（见下文「客户端」一节）。小花目前不提供自有封闭客户端，而是兼容通用协议工具，便于审计与替换。</p>\n      </div>\n      <div class=\"step\">\n        <h3>导入订阅</h3>\n        <p>在客户端内选择「从剪贴板导入」或「订阅更新」。节点列表会自动同步，无需手动逐条添加。</p>\n      </div>\n      <div class=\"step\">\n        <h3>选择节点并连接</h3>\n        <p>默认推荐「自动就近」。如需指定区域，可在列表中手动切换。连接成功后，系统托盘图标会变为青色。</p>\n      </div>\n      <div class=\"step\">\n        <h3>按需更新</h3>\n        <p>线路会周期性维护。建议每两周点击一次「更新订阅」，保持节点列表与当前维护状态一致。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2>套餐方案</h2>\n    <p>三档方案，按流量与设备数递增。年付为可选优惠，不强制。</p>\n\n    <article class=\"plan\">\n      <div class=\"name\">基础版</div>\n      <div class=\"price\"><b>¥15</b> / 月</div>\n      <div class=\"annual\">按年付仅需 ¥150/年</div>\n      <ul>\n        <li>每月 100GB 流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>基础区域节点访问</li>\n        <li>普通线路节点池</li>\n        <li>邮件工单支持</li>\n      </ul>\n      <a href=\"#\" class=\"cta\">选择基础版</a>\n    </article>\n\n    <article class=\"plan featured\">\n      <div class=\"tag\">多数人选择</div>\n      <div class=\"name\">旗舰版</div>\n      <div class=\"price\"><b>¥35</b> / 月</div>\n      <div class=\"annual\">按年付仅需 ¥350/年</div>\n      <ul>\n        <li>每月 300GB 流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体访问</li>\n        <li>优先线路优化</li>\n        <li>7×24 优先工单支持</li>\n      </ul>\n      <a href=\"#\" class=\"cta\">选择旗舰版</a>\n    </article>\n\n    <article class=\"plan\">\n      <div class=\"name\">团队版</div>\n      <div class=\"price\"><b>¥85</b> / 月</div>\n      <div class=\"annual\">按年付仅需 ¥850/年</div>\n      <ul>\n        <li>每月 1000GB 流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>高带宽专属节点池</li>\n        <li>支持团队自定义路由</li>\n        <li>专属客户经理对接</li>\n      </ul>\n      <a href=\"#\" class=\"cta\">选择团队版</a>\n    </article>\n  </section>\n\n  <section id=\"clients\">\n    <h2>客户端</h2>\n    <p>小花不绑定封闭客户端，兼容通用订阅格式。以下为各平台常用第三方工具，下载地址请以官方渠道为准。</p>\n    <div class=\"plan\">\n      <h3>Windows</h3>\n      <p>推荐使用支持通用订阅的客户端，导入订阅地址后即可同步节点列表。请从可信来源获取安装包。</p>\n    </div>\n    <div class=\"plan\">\n      <h3>macOS</h3>\n      <p>macOS 平台有多个开源客户端可选，导入方式与 Windows 一致，均支持剪贴板导入。</p>\n    </div>\n    <div class=\"plan\">\n      <h3>iOS / Android</h3>\n      <p>移动端请在系统应用商店搜索通用协议客户端。复制订阅链接后，打开客户端会提示一键导入。</p>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <div class=\"faq-item\">\n      <h3>小花支持哪些协议？</h3>\n      <p>订阅地址兼容主流通用协议格式。具体兼容列表以控制台当前说明为准。我们不锁定单一协议，便于用户根据网络环境自行选择。</p>\n    </div>\n    <div class=\"faq-item\">\n      <h3>流量是否支持结转？</h3>\n      <p>不支持。每月额度在订阅周期结束时清零。如果你经常剩余较多流量，建议考虑降档。</p>\n    </div>\n    <div class=\"faq-item\">\n      <h3>设备数限制如何计算？</h3>\n      <p>以同时在线连接数为准。设备安装客户端但未连接，不占用额度。断开后名额立即释放。</p>\n    </div>\n    <div class=\"faq-item\">\n      <h3>试用与退款政策？</h3>\n      <p>新用户可申请 24 小时短时试用。正式订阅后如遇线路不可用且工单 72 小时内未解决，可按剩余时长比例退款。主动原因不计入退款范围。</p>\n    </div>\n    <div class=\"faq-item\">\n      <h3>节点列表为何这么短？</h3>\n      <p>这是设计选择，不是疏忽。我们宁少而稳，不堆砌冗余入口。每条线路都经过长期观察，确认其延迟与稳定性可接受后，才保留在列表中。</p>\n    </div>\n  </section>\n</main>\n<footer>\n  © 小花工作室 · 本页内容仅作产品说明，不构成任何网络服务承诺。\n</footer>",
+          "hash": "0314202f63aded81c19c83ced429d04bd06f631b921825b49447dba3e401db88",
+          "seo": {
+            "title": "小花 — 轻盈、安静的网络中转服务",
+            "keywords": "小花,网络中转,隐私保护,跨地区访问,轻量节点,流媒体解锁",
+            "description": "小花是一款以克制为设计原则的网络中转服务，提供简洁的节点选择与稳定的传输体验。无冗余功能，只在需要时安静工作。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "9716",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "7 石板灰配青色",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ey777.cn",
+    "host": "p-b0f7fdc8e9.ey777.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "abcb2fc0efe3c4baf47a39654d5180e1d752bb69b9a79132ae2099f2805e1b28",
+    "sitemap.xml": "4d01eb670038ca423c6521079ea9c4b51e4a12f6b82103592f8b4691d5d6ce2f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2b1c676397363935ebd1aec73befea733ee0c9ceb25abc082002661759080e49",
+    "robots.txt": "bd69b66094cd40918832fa81efe734b35f0b6af331c1e9f126a733ca700aac31",
+    "5639cf20bcd96e23ede681391d1c44e8.txt": "a37ee246d5e583adc565548acced2fc85b9989096407a4959001909b28309a5b"
+  },
+  "revision": "6c8ff4dbc1e3365962ed04a9922bf76f876d80a0078f8a3a4156d3e2c31b8a4a"
+}
